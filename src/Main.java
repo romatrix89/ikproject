@@ -9,5 +9,8 @@ public class Main {
         System.out.println(b);
         System.out.println(c);
 
+        char d = 'd';
+        boolean f = true;
+
     }
 }
